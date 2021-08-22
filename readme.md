@@ -5,6 +5,7 @@ Funktionen:
 Client seitig:
 	App:
 		Mainscreen: 
+			BenutzerLogo unten bei klick Settings und benutzereinstellungen usw....
 			+AppTitel Oben
 			-Es sollen Ordner(Sammlungen) erstellt werden können
 			+Module(Fragensammlung) in liste bzw. Kacheln angezeigen (switch per knopfdruck oben rechts)
@@ -46,14 +47,14 @@ Client seitig:
 			
 
 	Website:
-
+		siehe app
 
 Server Seitig:
 
 Zusatz features:
 Prüfungsmodus
 suche nach fragen
-
+Werbung
 
 
 login
